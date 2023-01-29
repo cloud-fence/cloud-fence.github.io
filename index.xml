@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Cloud-fence</title>
+    <link>/</link>
+    <description>Recent content in Home on Cloud-fence</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Jan 2023 15:37:57 +0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enhanced Visibility</title>
+      <link>/services/visibility/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/services/visibility/</guid>
+      <description>Cloud-fence offers enhanced cloud visibility, providing real-time monitoring and detailed insights across all your cloud infrastructure, enabling you to quickly identify and address potential security threats and optimize your security posture.</description>
+    </item>
+    
+    <item>
+      <title>Traffic inspection</title>
+      <link>/services/trafficinspection/</link>
+      <pubDate>Wed, 25 Jan 2023 15:15:34 +1000</pubDate>
+      
+      <guid>/services/trafficinspection/</guid>
+      <description>Cloud-fence gives you the ability to monitor and analyze network traffic of your cloud workloads and identify any potential security threats, such as malware or unauthorized access attempts, thus allowing you to gain real-time visibility into the traffic flowing through your cloud infrastructure.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      
+      <guid>/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/history/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      
+      <guid>/history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-click deployment</title>
+      <link>/services/deployment/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>/services/deployment/</guid>
+      <description>Cloud-fence simplifies deployment with its intuitive interface, allowing for easy and fast implementation of your Cloud Network Security stack. Its streamlined installation process and step-by-step guidance make it accessible to both Network Administrators and developpers to quickly and efficiently protect their cloud assets.</description>
+    </item>
+    
+    <item>
+      <title>Secure Connectivity</title>
+      <link>/services/connectivity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/connectivity/</guid>
+      <description>Cloud-fence enables you to seamlessly and securely connect your multiple cloud platforms from a single interface, ensuring that sensitive data is protected while in transit and at rest. This feature provides a secure and seamless way to manage and access resources across different cloud environments, while maintaining compliance and security standards. It also allows for easy data migration and integration between the different cloud providers.</description>
+    </item>
+    
+  </channel>
+</rss>
